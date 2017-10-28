@@ -7,7 +7,8 @@
     "authors": [
         {
             "name": "nivans",
-            "email": "to@nivans.pro"
+            "email": "to@nivans.pro",
+            "homepage": "http://nivans.pro"
         }
     ],
     "require": {
