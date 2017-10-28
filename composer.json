@@ -1,0 +1,21 @@
+{
+    "name": "nivans/yii2-bs4-breadcrumbs",
+    "description": "Widget to create breadcrumbs using Bootstrap 4 markup",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","widget","bootstrap 4","bs4","breadcrumbs"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "nivans",
+            "email": "to@nivans.pro"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "nivans\\Bs4Breadcrumbs\\": ""
+        }
+    }
+}
